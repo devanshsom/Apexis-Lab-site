@@ -1,0 +1,1 @@
+Apexis Labs is a modern, responsive web landing page showcasing digital innovation through sleek design and interactive features. Built with HTML, CSS, and JavaScript, it highlights portfolio projects and dynamic user experiences.
